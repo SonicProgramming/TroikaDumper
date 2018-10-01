@@ -11,6 +11,7 @@ HTC One M8
 HTC One M9
 HTC One Max
 HUAWEI ASCENT P7
+Google Nexus 5X
 Google Nexus 7 (2012 c NXP PN65)
 Lenovo Sisley S90
 Lenovo VIBE Z2
@@ -36,6 +37,7 @@ Samsung Galaxy Nexus I9250
 Samsung Galaxy Note II
 Samsung Galaxy SIII
 Samsung Galaxy SIII Neo
+Samsung Galaxy S5
 Samsung Core, Samsung Core DUOS
 Samsung Galaxy A7
 Samsung Galaxy S5 G900F
